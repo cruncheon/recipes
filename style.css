@@ -44,7 +44,9 @@ body {
 
 .description h1,.ingredients h1,.steps h1 {
     font-size: 24px;
-    background-color: beige;  
+    background-color: black;  
+    color: beige;
+    padding: 5px;
 }
 
 .description,.ingredients,.steps {
