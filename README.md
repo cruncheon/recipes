@@ -1,6 +1,6 @@
-# Odin Recipes
+# Recipes
 
-Recipes project for The Odin Project. Demonstrates the following:
-- Understanding of Directory Structures
-- Basic HTML Use
-- Basic Git Use
+Recipes project originally started for The Odin Project. Demonstrates the following:
+- Understanding of directory structures
+- Basic HTML use
+- Basic Git use
