@@ -11,6 +11,30 @@ body {
     max-width: 80ch;
 }
 
+.navbar a {
+    color: green;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+.navbar li {
+    font-size: 24px;
+    margin: 5px;
+    list-style: none;
+}
+
+.navbar h1 {
+    font-size: 38px;
+    background-color: black;
+    color: beige;
+    padding: 5px;
+    text-align: center;
+}
+
 .title h1 {
     font-size: 32px;
     background-color: black;
@@ -39,7 +63,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    max-width: 400px;
+    max-width: 80ch;
 }
 
 .description h1,.ingredients h1,.steps h1 {
