@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: lightyellow;
     color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -29,7 +29,7 @@ body {
 
 .navbar h1 {
     font-size: 38px;
-    background-color: beige;
+    background-color: lightyellow;
     color: black;
     padding: 5px;
     text-align: center;
@@ -38,7 +38,7 @@ body {
 .title h1 {
     font-size: 32px;
     background-color: black;
-    color: beige;
+    color: lightyellow;
     padding: 5px;
     text-align: center;
 }
@@ -69,7 +69,7 @@ body {
 .description h1,.ingredients h1,.steps h1 {
     font-size: 24px;
     background-color: black;  
-    color: beige;
+    color: lightyellow;
     padding: 5px;
 }
 
